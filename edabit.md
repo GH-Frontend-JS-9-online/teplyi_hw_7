@@ -32,12 +32,12 @@ Solution: https://prnt.sc/q7s5m1
 <b>e.Challenge: https://edabit.com/challenge/rCmEy2AQYLbRGgKyL </b><br>
 <b>Solution: https://prnt.sc/q7ufhh </b> 
 
-<h1>Loops</h1>
+<h1>3.Loops</h1>
 
-<b>a.Challenge:</b><br>
-<b>Solution:</b> 
+<b>a.Challenge: https://edabit.com/challenge/ppBDRwSoqZYcR95Aq </b><br>
+<b>Solution: https://prnt.sc/q7v3ve </b> 
   
-<b>b.Challenge:</b><br>
+<b>b.Challenge: https://edabit.com/challenge/Ju7AK9rAGjz86hjxo </b><br>
 <b>Solution:</b> 
   
 <b>c.Challenge:</b><br>
