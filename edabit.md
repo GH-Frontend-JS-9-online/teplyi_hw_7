@@ -26,11 +26,11 @@ Solution: https://prnt.sc/q7s5m1
 <b>c.Challenge: https://edabit.com/challenge/zQm9YZTTFPhNtYjDr </b><br>
 <b>Solution: https://prnt.sc/q7ts9n </b> 
   
-<b>d.Challenge:</b><br>
-<b>Solution:</b> 
+<b>d.Challenge: https://edabit.com/challenge/b2NdDSdkjqFnCTfS8 </b><br>
+<b>Solution: https://prnt.sc/q7u80l </b> 
   
-<b>e.Challenge:</b><br>
-<b>Solution:</b> 
+<b>e.Challenge: https://edabit.com/challenge/rCmEy2AQYLbRGgKyL </b><br>
+<b>Solution: https://prnt.sc/q7ufhh </b> 
 
 <h1>Loops</h1>
 
