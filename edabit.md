@@ -15,16 +15,16 @@ Solution: https://prnt.sc/q7rz51
 e.Challenge : https://edabit.com/challenge/ZwQJM6FsRsWd3Bm6g <br>
 Solution: https://prnt.sc/q7s5m1  
 
-<h1>Arrays</h1>
+<h1>2.Arrays</h1>
 
-<b>a.Challenge:</b><br>
-<b>Solution:</b> 
+<b>a.Challenge: https://edabit.com/challenge/Q3n42rEWanZSTmsJm </b><br>
+<b>Solution: https://prnt.sc/q7tfla </b> 
   
-<b>b.Challenge:</b><br>
-<b>Solution:</b> 
+<b>b.Challenge: https://edabit.com/challenge/XdAR3KohR5w7rjrFg </b><br>
+<b>Solution: https://prnt.sc/q7to16 </b> 
   
-<b>c.Challenge:</b><br>
-<b>Solution:</b> 
+<b>c.Challenge: https://edabit.com/challenge/zQm9YZTTFPhNtYjDr </b><br>
+<b>Solution: https://prnt.sc/q7ts9n </b> 
   
 <b>d.Challenge:</b><br>
 <b>Solution:</b> 
