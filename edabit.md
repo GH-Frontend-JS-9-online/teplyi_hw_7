@@ -1,6 +1,6 @@
 1.Conditions
-a.Challenge : https://edabit.com/challenge/kLa2w7m4h849k8rmW\n
-  solution: https://prnt.sc/q7rhxw
+a.Challenge : https://edabit.com/challenge/kLa2w7m4h849k8rmW
+solution: https://prnt.sc/q7rhxw
   
 b.Challenge : https://edabit.com/challenge/Ju7AK9rAGjz86hjxo
   solution: https://prnt.sc/q7rltm
