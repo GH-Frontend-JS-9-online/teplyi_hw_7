@@ -38,18 +38,18 @@ Solution: https://prnt.sc/q7s5m1
 <b>Solution: https://prnt.sc/q7v3ve </b> 
   
 <b>b.Challenge: https://edabit.com/challenge/Ju7AK9rAGjz86hjxo </b><br>
-<b>Solution:</b> 
+<b>Solution: https://prnt.sc/q7rltm </b> 
   
-<b>c.Challenge:</b><br>
-<b>Solution:</b> 
+<b>c.Challenge: https://edabit.com/challenge/b2NdDSdkjqFnCTfS8 </b><br>
+<b>Solution: https://prnt.sc/q7u80l </b> 
   
-<b>d.Challenge:</b><br>
-<b>Solution:</b> 
+<b>d.Challenge: https://edabit.com/challenge/XdAR3KohR5w7rjrFg </b><br>
+<b>Solution: https://prnt.sc/q7to16 </b> 
   
-<b>e.Challenge:</b><br>
-<b>Solution:</b> 
+<b>e.Challenge: https://edabit.com/challenge/rCmEy2AQYLbRGgKyL </b><br>
+<b>Solution: https://prnt.sc/q7ufhh </b> 
 
-<h1>Functional Programming</h1>
+<h1>4.Functional Programming</h1>
 
 <b>a.Challenge:</b><br>
 <b>Solution:</b> 
