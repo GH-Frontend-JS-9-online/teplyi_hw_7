@@ -57,11 +57,11 @@ Solution: https://prnt.sc/q7s5m1
 <b>b.Challenge: https://edabit.com/challenge/hzxN9bAebBPNqdQto </b><br>
 <b>Solution: https://prnt.sc/q84m2a </b> 
   
-<b>c.Challenge:</b><br>
-<b>Solution:</b> 
+<b>c.Challenge: https://edabit.com/challenge/cada8J3AWGRhwQhkk </b><br>
+<b>Solution: https://prnt.sc/q86l3m </b> 
   
-<b>d.Challenge:</b><br>
-<b>Solution:</b> 
+<b>d.Challenge: https://edabit.com/challenge/ENWFBL4jbTgLbSqwS </b><br>
+<b>Solution: https://prnt.sc/q86x45 </b> 
   
 <b>e.Challenge:</b><br>
 <b>Solution:</b> 
