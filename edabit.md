@@ -63,8 +63,8 @@ Solution: https://prnt.sc/q7s5m1
 <b>d.Challenge: https://edabit.com/challenge/ENWFBL4jbTgLbSqwS </b><br>
 <b>Solution: https://prnt.sc/q86x45 </b> 
   
-<b>e.Challenge:</b><br>
-<b>Solution:</b> 
+<b>e.Challenge: https://edabit.com/challenge/tWgCG2PjN6FHq27S7 </b><br>
+<b>Solution: https://prnt.sc/q87j65 </b> 
 
 <h1>Scope</h1>
 
