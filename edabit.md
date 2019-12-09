@@ -51,11 +51,11 @@ Solution: https://prnt.sc/q7s5m1
 
 <h1>4.Functional Programming</h1>
 
-<b>a.Challenge:</b><br>
-<b>Solution:</b> 
+<b>a.Challenge: https://edabit.com/challenge/nBW6ubsQCurPvhpWc </b><br>
+<b>Solution: https://prnt.sc/q7vacy </b> 
   
-<b>b.Challenge:</b><br>
-<b>Solution:</b> 
+<b>b.Challenge: https://edabit.com/challenge/hzxN9bAebBPNqdQto </b><br>
+<b>Solution: https://prnt.sc/q84m2a </b> 
   
 <b>c.Challenge:</b><br>
 <b>Solution:</b> 
@@ -85,20 +85,20 @@ Solution: https://prnt.sc/q7s5m1
 
 <h1>Objects</h1>
 
-<b>a.Challenge:</b><br>
-<b>Solution:</b> 
+<b>a.Challenge: https://edabit.com/challenge/i6YqzHcSiPiEQKjeX </b><br>
+<b>Solution: https://prnt.sc/q8551v </b> 
   
-<b>b.Challenge:</b><br>
-<b>Solution:</b> 
+<b>b.Challenge: https://edabit.com/challenge/pPNAs5PvB3WvnDwDM </b><br>
+<b>Solution: https://prnt.sc/q85da9 </b> 
   
-<b>c.Challenge:</b><br>
-<b>Solution:</b> 
+<b>c.Challenge: https://edabit.com/challenge/AP4hnF97anRc2mAZ6 </b><br>
+<b>Solution: https://prnt.sc/q85ioi </b> 
   
-<b>d.Challenge:</b><br>
-<b>Solution:</b> 
+<b>d.Challenge: https://edabit.com/challenge/nGybgqB9agSqvBszF </b><br>
+<b>Solution: https://prnt.sc/q85mmf </b> 
   
-<b>e.Challenge:</b><br>
-<b>Solution:</b> 
+<b>e.Challenge: https://edabit.com/challenge/2ndkdWJpycphvhmv8 </b><br>
+<b>Solution: https://prnt.sc/q860k3 </b> 
 
 <h1>Classes</h1>
 
