@@ -74,8 +74,8 @@ Solution: https://prnt.sc/q7s5m1
 <b>b.Challenge: https://edabit.com/challenge/9tJ97HK3c4Koy3KsF </b><br>
 <b>Solution: https://prnt.sc/q8nirw </b> 
   
-<b>c.Challenge:</b><br>
-<b>Solution:</b> 
+<b>c.Challenge: https://edabit.com/challenge/6ALbTxgu8BZaa6YYN </b><br>
+<b>Solution: https://prnt.sc/q8ocnn </b> 
   
 <b>d.Challenge:</b><br>
 <b>Solution:</b> 
