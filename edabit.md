@@ -102,8 +102,8 @@ Solution: https://prnt.sc/q7s5m1
 
 <h1>Classes</h1>
 
-<b>a.Challenge:</b><br>
-<b>Solution:</b> 
+<b>a.Challenge: https://edabit.com/challenge/s5Sz2ovKsvtGxNGgn </b><br>
+<b>Solution: https://prnt.sc/q8pdkc </b> 
   
 <b>b.Challenge:</b><br>
 <b>Solution:</b> 
